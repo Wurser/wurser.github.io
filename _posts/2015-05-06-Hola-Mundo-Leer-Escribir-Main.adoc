@@ -55,3 +55,10 @@ Esta es la clase principal
 	public static void main(String args[]){  
     }
 
+
+
+==== PD
+
+_Estoy estudiando por mi cuenta y cuando empece vi que los libros que hay son muy extensos, muy completos sí, pero para mi gusto dan muchas vueltas. Asi que en lugar de unos apuntes a mano o en word o LaTeX los pongo en un blog conforme voy aprendiendo._
+
+_Es posible que haya errores, muchas faltas de ortografía o que no esten todo lo completo pero conforme aprenda cosas nuevas ire actualizando_

@@ -61,4 +61,6 @@ Esta es la clase principal
 
 _Estoy estudiando por mi cuenta y cuando empece vi que los libros que hay son muy extensos, muy completos sí, pero para mi gusto dan muchas vueltas. Asi que en lugar de unos apuntes a mano o en word o LaTeX los pongo en un blog conforme voy aprendiendo._
 
-_Es posible que haya errores, muchas faltas de ortografía o que no esten todo lo completo pero conforme aprenda cosas nuevas ire actualizando_
+_Es posible que haya errores, muchas faltas de ortografía o que no esten todo lo completo que deberían, pero conforme aprenda cosas nuevas ire actualizando._
+
+_La idea es que sea resumido, más que un libro y menos que unas diapositivas, que sea Simplemente Programación_

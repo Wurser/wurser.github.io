@@ -10,7 +10,7 @@ También puede ser
 
 	System.out.println("Hola Mundo);
     
-La diferencia es que *_println_* salta a una nueva linea despues del texto
+La diferencia es que *_println_* salta a una nueva linea después de imprimir el texto
 
 
 Por último esta
@@ -55,12 +55,3 @@ Esta es la clase principal
 	public static void main(String args[]){  
     }
 
-
-
-==== PD
-
-_Estoy estudiando por mi cuenta y cuando empece vi que los libros que hay son muy extensos, muy completos sí, pero para mi gusto dan muchas vueltas. Asi que en lugar de unos apuntes a mano o en word o LaTeX los pongo en un blog conforme voy aprendiendo._
-
-_Es posible que haya errores, muchas faltas de ortografía o que no esten todo lo completo que deberían, pero conforme aprenda cosas nuevas ire actualizando._
-
-_La idea es que sea resumido, más que un libro y menos que unas diapositivas, que sea Simplemente Programación_

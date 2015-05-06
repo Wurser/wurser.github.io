@@ -1,0 +1,57 @@
+= Hola Mundo. Leer, Escribir, Main.
+:hp-tags: Simplemente Java
+
+
+== Escribir
+
+	System.out.print("Hola Mundo");
+    
+También puede ser
+
+	System.out.println("Hola Mundo);
+    
+La diferencia es que *_println_* salta a una nueva linea despues del texto
+
+
+Por último esta
+
+	System.out.printf(%s\n,"Lo Que Quieras");
+
+Que ya se explicará en profundidad.
+
+== Leer
+
+Es necesario importar la clase *Scanner*
+
+	import java.util.Scanner;
+    // Se importa antes de la clase
+
+En la clase se instancia un objeto (nombralo como quieras)
+
+	Scanner leer=new Scanner(System.in);
+    
+    
+En el momento en que queramos leer por teclado para asignar a un atributo
+
+	int atributo;
+    atributo=leer.nextInt();
+
+El *_.nextInt_* dependera del tipo de atributro que queramos leer.
+
+En la http://docs.oracle.com/javase/8/docs/api/[API de Java] podeis encontrarlos todos.
+
+Algunos básicos
+
+	leer.nextLine//Para leer String
+    leer.nextInt//Para int
+    leer.nextDouble//Para double
+    leer.nextLong//Para long
+    
+
+== Main
+
+Esta es la clase principal
+
+	public static void main(String args[]){  
+    }
+

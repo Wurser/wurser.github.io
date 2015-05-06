@@ -10,18 +10,18 @@ También puede ser
 
 	System.out.println("Hola Mundo);
     
-La diferencia es que *_println_* salta a una nueva linea después de imprimir el texto
+La diferencia es que `*_println_*` salta a una nueva linea después de imprimir el texto
 
 
 Por último esta
 
 	System.out.printf(%s\n,"Lo Que Quieras");
 
-Que ya se explicará en profundidad.
+Que ya se explicará.
 
 == Leer
 
-Es necesario importar la clase *Scanner*
+Es necesario importar la clase `*Scanner*`
 
 	import java.util.Scanner;
     // Se importa antes de la clase
@@ -36,16 +36,16 @@ En el momento en que queramos leer por teclado para asignar a un atributo
 	int atributo;
     atributo=leer.nextInt();
 
-El *_.nextInt_* dependera del tipo de atributro que queramos leer.
+NOTE: El *_.nextInt_* dependera del tipo de atributro que queramos leer.
 
-En la http://docs.oracle.com/javase/8/docs/api/[API de Java] podeis encontrarlos todos.
+TIP: En la http://docs.oracle.com/javase/8/docs/api/[API de Java] podeis encontrarlos todos.
 
-Algunos básicos
+Algunos `*_.next_*` básicos
 
-	leer.nextLine//Para leer String
-    leer.nextInt//Para int
-    leer.nextDouble//Para double
-    leer.nextLong//Para long
+	leer.nextLine     //Para leer String
+    leer.nextInt     //Para int
+    leer.nextDouble //Para double
+    leer.nextLong  //Para long
     
 
 == Main
@@ -54,4 +54,5 @@ Esta es la clase principal
 
 	public static void main(String args[]){  
     }
+
 

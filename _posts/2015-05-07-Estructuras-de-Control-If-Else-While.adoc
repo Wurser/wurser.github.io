@@ -51,4 +51,21 @@ Tambien se puede poner un `*_else_*` al final
 	}
     
     
-CAUTION: Si la condicion no se cumple, no entra en el bucle while    
+CAUTION: Si la condicion no se cumple, nunca entra en el bucle while    
+
+
+:hardbreaks:
+
+
+
+
+.
+.
+.
+.
+.
+
+
+
+
+WARNING: ENTRADA INCOMPLETA. Faltan las condiciones.

@@ -1,4 +1,4 @@
-= Estructuras de Control. If, Else, While.
+= Instrucciones de Control. If, Else, While.
 
 :hp-tags: Simplemente Java, Java
 

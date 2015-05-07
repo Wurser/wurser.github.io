@@ -2,7 +2,7 @@
 
 :hp-tags: Simplemente Java, Java
 
-== IF
+== If
 		
 
 	if(Condicion_Booleana){   
@@ -10,7 +10,7 @@
     }
     
     
-== ELSE
+== Else
 
 
 	
@@ -21,7 +21,7 @@
   }
  
  
-== ELSE IF
+== Else If
 
 
 
@@ -44,7 +44,7 @@ Tambien se puede poner un `*_else_*` al final
   
   
 
-== WHILE
+== While
 
 	while(CONDICION_BOOLEANA){
 		//Código que se ejecurtará mientras se cumpla la condición

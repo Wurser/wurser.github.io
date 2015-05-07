@@ -1,4 +1,4 @@
-= Instrucciones de Control. If, Else, While.
+= Instrucciones de Control. If, Else, Switch .
 
 :hp-tags: Simplemente Java, Java
 
@@ -42,16 +42,11 @@ Tambien se puede poner un `*_else_*` al final
 	 //Código que se ejecurtará si NO se cumple ninguna de las condiciones
   }
   
-  
+== Switch
 
-== While
+     switch (atributo_control){
+      case 
 
-	while(CONDICION_BOOLEANA){
-		//Código que se ejecurtará mientras se cumpla la condición
-	}
-    
-    
-CAUTION: Si la condicion no se cumple, nunca entra en el bucle while    
 
 
 

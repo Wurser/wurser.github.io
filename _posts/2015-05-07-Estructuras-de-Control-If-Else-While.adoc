@@ -2,7 +2,7 @@
 
 :hp-tags: Simplemente Java, Java
 
-== If
+== IF
 		
 
 	if(Condicion_Booleana){   

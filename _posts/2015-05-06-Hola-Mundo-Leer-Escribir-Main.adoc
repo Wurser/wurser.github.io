@@ -13,7 +13,7 @@ También puede ser
 La diferencia es que `*_println_*` salta a una nueva linea después de imprimir el texto
 
 
-Por último esta
+Por último está
 
 	System.out.printf(%s\n,"Lo Que Quieras");
 
@@ -56,3 +56,5 @@ Esta es la clase principal
     }
 
 
+
+WARNING: ENTRADA INCOMPLETA. Aqui irán las secuencis de escape.

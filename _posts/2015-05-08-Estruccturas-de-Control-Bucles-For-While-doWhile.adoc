@@ -6,6 +6,13 @@
 
 
 
+== For
+
+
+	for(variable_control;condicion_booleana;incremento_decremento){
+    	//Código que se ejecutará
+    }
+
 
 
 == While
@@ -17,3 +24,13 @@
     
 CAUTION: Si la condicion no se cumple, nunca entra en el bucle while    
 
+
+== do... While
+
+
+	do{
+		//Código que se ejecurtará al menos una vez y mientras se cumpla la condición
+	}while(CONDICION_BOOLEANA)
+    
+    
+CAUTION: A diferencia del bucle while al se menos entrara una vez en el bucle do... While

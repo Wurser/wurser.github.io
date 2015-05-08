@@ -1,0 +1,73 @@
+= Estructuras de Control. If, Else, Switch.
+
+:hp-tags: Simplemente Java, Java
+
+== If
+		
+
+	if(Condicion_Booleana){   
+    	//Código que se ejecurtará si se cumple la condición
+    }
+    
+    
+== Else
+
+
+	
+  if(Condicion_Booleana){    
+  	//Código que se ejecurtará si se cumple la condición
+  }else{
+   	//Código que se ejecurtará si NO se cumple la condición
+  }
+ 
+ 
+== Else If
+
+
+
+ if(#1_Condicion_Booleana){    
+	 //Código que se ejecurtará si se cumple la condición
+ }else if(#2_Condicion_Booleana){
+	 //Código que se ejecurtará si NO se cumple la condición #1 y si la condición #2
+  }
+ 
+ 
+Tambien se puede poner un `*_else_*` al final  
+ 
+ if(#1_Condicion_Booleana){    
+ 	//Código que se ejecurtará si se cumple la condición
+  }else if(#2_Condicion_Booleana){
+ 	//Código que se ejecurtará si NO se cumple la condición #1 y si la condición #2
+  }else{
+	 //Código que se ejecurtará si NO se cumple ninguna de las condiciones
+  }
+  
+  
+  
+
+
+== Switch
+
+
+
+	switch Atriburto_de_Control
+    {
+    case Valor_1_Atributo: Código que se ejecurtará si Atriburto_de_Control coincide con Valor_1_Atributo;
+    break; // Sale del Switch
+    case Valor_2_Atributo: Código que se ejecurtará si Atriburto_de_Control coincide con Valor_2_Atributo;
+    break;
+	case Valor_3_Atributo: Código que se ejecurtará si Atriburto_de_Control coincide con Valor_3_Atributo;
+    break;   
+    default
+
+
+
+
+
+.
+.
+.
+.
+.
+
+WARNING: ENTRADA INCOMPLETA. Faltan las condiciones.

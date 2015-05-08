@@ -1,0 +1,19 @@
+= Estruccturas de Control. Bucles. For, While, do...While.
+
+:hp-tags: Simplemente Java, Java
+
+
+
+
+
+
+
+== While
+
+	while(CONDICION_BOOLEANA){
+		//Código que se ejecurtará mientras se cumpla la condición
+	}
+    
+    
+CAUTION: Si la condicion no se cumple, nunca entra en el bucle while    
+

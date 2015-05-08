@@ -1,4 +1,4 @@
-= Estruccturas de Control. Bucles. For, While, do...While.
+= Estructuras de Control. Bucles. For, While, do...While.
 
 :hp-tags: Simplemente Java, Java
 

@@ -1,0 +1,19 @@
+= Estructuras de Control. Break, Continue.
+
+:hp-tags: Simplemente Java, Java
+
+
+== Break
+
+
+En el momento en que se ejecute un `*_break_*` en un bucle, dejará de ejecutarse el bucle.
+
+
+NOTE: También se ejecuta en los Switch.
+
+== Continue
+
+Con `*_continue_*` no se ejecutará el resto del código de esta vuelta, saltará a la siguiente vuelta del bucle.
+
+
+TIP: Por si te lo preguntas, `*_continue_*` no se ejecuta en los Switch.
